@@ -1,3 +1,3 @@
 # Homework One
 ## Instructions
-Hello Preofessor
+Hello Professor
